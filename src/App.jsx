@@ -240,7 +240,7 @@ export default function App() {
 
   {/* Social Icons */}
   <div className="social-icons">
-    <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+    <a href="https://github.com/deepthiallamudi-ux" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
     </a>
 
