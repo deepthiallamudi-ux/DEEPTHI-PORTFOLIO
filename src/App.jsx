@@ -202,7 +202,7 @@ export default function App() {
         <a href="https://github.com/deepthiallamudi-ux/time-tracking-app" target="_blank" rel="noreferrer">
           GitHub
         </a>
-        <a href="https://time-tracking-app-qlrx.onrender.com" target="_blank" rel="noreferrer">
+        <a href="https://time-tracking-app-2-v6yx.onrender.com" target="_blank" rel="noreferrer">
           Live Demo
         </a>
       </div>
