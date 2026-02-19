@@ -244,7 +244,9 @@ export default function App() {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
     </a>
 
-    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/
+deepthi-allamudi-5b338715b
+" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
     </a>
   </div>
