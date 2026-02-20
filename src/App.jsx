@@ -2,6 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import profileImg from "./assets/profile.jpg";
 import project1Img from "./assets/projects/project1.jpg";
+import project2Img from "./assets/projects/project2.jpg";
 import "./App.css";
 
 const sectionFadeUp = {
