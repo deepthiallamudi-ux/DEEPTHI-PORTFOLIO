@@ -208,6 +208,36 @@ export default function App() {
         </a>
       </div>
     </div>
+
+     <img src={project2Img} alt="Project" />
+
+    <div className="project-content">
+      <h3>Fitness Buddy</h3>
+
+      <p className="project-desc">
+       A modern, feature-rich fitness social platform built with React 18, Vite, and Tailwind CSS. 
+        Connect with fitness enthusiasts, track workouts, join challenges, create challenges and many more. 
+        Achieve your health goals together in a fun way..
+      
+      </p>
+
+      <ul className="project-points">
+        <li>✔ Fully responsive design.Optimized for mobile, tablet, and desktop</li>
+        <li>✔ Easy navigation with active link highlighting</li>
+        <li>✔ Optimized for performance</li>
+      </ul>
+
+      <p className="tech">React • Tailwind • Supabase • Vite • Axios</p>
+
+      <div className="project-links">
+        <a href="https://github.com/deepthiallamudi-ux/FitnessBuddy-FrontEnd.git" target="_blank" rel="noreferrer">
+          GitHub
+        </a>
+        <a href="https://fitnesbudy.netlify.app/" target="_blank" rel="noreferrer">
+          Live Demo
+        </a>
+      </div>
+    </div>
   </div>
 </motion.section>
 
