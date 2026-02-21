@@ -233,7 +233,7 @@ export default function App() {
         <a href="https://github.com/deepthiallamudi-ux/FitnessBuddy-FrontEnd.git" target="_blank" rel="noreferrer">
           GitHub
         </a>
-        <a href="https://fitnesbudy.netlify.app/" target="_blank" rel="noreferrer">
+        <a href="https://fitnesbudyy.netlify.app/login" target="_blank" rel="noreferrer">
           Live Demo
         </a>
       </div>
