@@ -60,7 +60,7 @@ export default function App() {
 
   <div className="nav-actions">
     <a
-      href="/resume.pdf"
+      href="/Deepthi_resume.pdf"
       target="_blank"
       rel="noreferrer"
       className="resume-btn"
