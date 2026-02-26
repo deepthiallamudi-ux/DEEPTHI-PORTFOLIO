@@ -24,7 +24,8 @@ const skills = [
   { name: "GitHub", icon: "github" },
   { name: "Supabase", icon: "supabase" },
   { name: "VS Code", icon: "vscode" },
-  { name: "Postman", icon: "postman" } // ✅ ADDED
+  { name: "Postman", icon: "postman" }
+   name: "ShadCN", icon: "ShadCN" } // ✅ ADDED
 ];
 
 
